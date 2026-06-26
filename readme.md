@@ -7,7 +7,7 @@ Isle Focus 是一款专注于提升工作效率的番茄钟应用。
 如有任何问题、建议或反馈，请通过以下方式联系我们：
 
 - 在 GitHub 提交 Issue：[https://github.com/guoxiujiang1971/isle/issues](https://github.com/guoxiujiang1971/isle/issues)
-- 发送邮件至：[guoxiujiang1971@icloud.com](mailto:guoxiujiang1971@icloud.com)
+- 发送邮件至：[guoxiujiang1971@icloud.com](mailto:guoxiujiang1971@gmail.com)
 
 ## 常见问题 / FAQ
 
